@@ -1,0 +1,8 @@
+langgraph==0.4.8
+langsmith==0.3.45
+langchain-openai==0.3.22
+ipython==9.3.0
+python-dotenv==1.1.0
+langchain-tavily==0.2.2
+youtube_search==2.1.2
+langchain_community==0.3.25
